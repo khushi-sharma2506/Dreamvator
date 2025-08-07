@@ -1,4 +1,5 @@
 // pages/api/save-signup.ts
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 
 import type { NextApiRequest, NextApiResponse } from "next";
 
