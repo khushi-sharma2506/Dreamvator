@@ -1,4 +1,4 @@
-// pages/api/save-signup.ts
+/*// pages/api/save-signup.ts
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 
 import type { NextApiRequest, NextApiResponse } from "next";
@@ -41,4 +41,4 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   } catch (error: any) {
     return res.status(500).json({ message: "Server error", error: error.message });
   }
-}
+}*/
